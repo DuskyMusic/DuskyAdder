@@ -1,0 +1,3 @@
+git clone https://github.com/ThiruXD/Cringe-Adding-Bot Hack
+cd Hack
+python3 main.py
