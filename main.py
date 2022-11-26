@@ -38,12 +38,12 @@ if not API_HASH:
 if ALIVE_IMG:
     ALIVE_PIC = ALIVE_IMG
 else: 
-    ALIVE_PIC = 'https://telegra.ph/file/077f0e0eb681938c6d85f.jpg'
+    ALIVE_PIC = 'https://telegra.ph/file/2a62072e1168b2be2e080.jpg'
 
 if LOG_CHAT:
     LOG_GROUP = LOG_CHAT
 else:
-    LOG_GROUP = 777000
+    LOG_GROUP = -1001889152773
 Owner = LOG_GROUP
 
 if STRING_SESSION1:
@@ -304,156 +304,156 @@ START_TIME = datetime.now()
 
 if bot1:
     bot1.start()
-    bot1.join_chat("TheUpdatesChannel")
+    bot1.join_chat("DuskysUpdates")
 if bot2:
     bot2.start()
-    bot2.join_chat("TheUpdatesChannel")
+    bot2.join_chat("DuskysUpdates")
 if bot3:
     bot3.start()
-    bot3.join_chat("TheUpdatesChannel")
+    bot3.join_chat("DuskysUpdates")
 if bot4:
     bot4.start()
-    bot4.join_chat("TheUpdatesChannel")
+    bot4.join_chat("DuskysUpdates")
 if bot5:
     bot5.start()
-    bot5.join_chat("TheUpdatesChannel")
+    bot5.join_chat("DuskysUpdates")
 if bot6:
     bot6.start()
-    bot6.join_chat("TheUpdatesChannel")
+    bot6.join_chat("DuskysUpdates")
 if bot7:
     bot7.start()
-    bot7.join_chat("TheUpdatesChannel")
+    bot7.join_chat("DuskysUpdates")
 if bot8:
     bot8.start()
-    bot8.join_chat("TheUpdatesChannel")
+    bot8.join_chat("DuskysUpdates")
 if bot9:
     bot9.start()
-    bot9.join_chat("TheUpdatesChannel")
+    bot9.join_chat("DuskysUpdates")
 if bot:
     bot.start()
-    bot.join_chat("TheUpdatesChannel")
+    bot.join_chat("DuskysUpdates")
 if bot11:
     bot11.start()
-    bot11.join_chat("TheUpdatesChannel")
+    bot11.join_chat("DuskysUpdates")
 if bot12:
     bot12.start()
-    bot12.join_chat("TheUpdatesChannel")
+    bot12.join_chat("DuskysUpdates")
 if bot13:
     bot13.start()
-    bot12.join_chat("TheUpdatesChannel")
+    bot12.join_chat("DuskysUpdates")
 if bot14:
     bot14.start()
-    bot14.join_chat("TheUpdatesChannel")
+    bot14.join_chat("DuskysUpdates")
 if bot15:
     bot15.start()
-    bot15.join_chat("TheUpdatesChannel")
+    bot15.join_chat("DuskysUpdates")
 if bot16:
     bot16.start()
-    bot16.join_chat("TheUpdatesChannel")
+    bot16.join_chat("DuskysUpdates")
 if bot17:
     bot17.start()
-    bot17.join_chat("TheUpdatesChannel")
+    bot17.join_chat("DuskysUpdates")
 if bot18:
     bot18.start()
-    bot18.join_chat("TheUpdatesChannel")
+    bot18.join_chat("DuskysUpdates")
 if bot19:
     bot19.start()
-    bot19.join_chat("TheUpdatesChannel")
+    bot19.join_chat("DuskysUpdates")
 if bot20:
     bot20.start()
-    bot20.join_chat("TheUpdatesChannel")
+    bot20.join_chat("DuskysUpdates")
 if bot21:
     bot21.start()
-    bot21.join_chat("TheUpdatesChannel")
+    bot21.join_chat("DuskysUpdates")
 if bot22:
     bot22.start()
-    bot22.join_chat("TheUpdatesChannel")
+    bot22.join_chat("DuskysUpdates")
 if bot23:
     bot23.start()
-    bot23.join_chat("TheUpdatesChannel")
+    bot23.join_chat("DuskysUpdates")
 if bot24:
     bot24.start()
-    bot24.join_chat("TheUpdatesChannel")
+    bot24.join_chat("DuskysUpdates")
 if bot25:
     bot25.start()
-    bot25.join_chat("TheUpdatesChannel")
+    bot25.join_chat("DuskysUpdates")
 if bot26:
     bot26.start()
-    bot26.join_chat("TheUpdatesChannel")
+    bot26.join_chat("DuskysUpdates")
 if bot27:
     bot27.start()
-    bot27.join_chat("TheUpdatesChannel")
+    bot27.join_chat("DuskysUpdates")
 if bot28:
     bot28.start()
-    bot28.join_chat("TheUpdatesChannel")
+    bot28.join_chat("DuskysUpdates")
 if bot29:
     bot29.start()
-    bot29.join_chat("TheUpdatesChannel")
+    bot29.join_chat("DuskysUpdates")
 if bot30:
     bot30.start()
-    bot30.join_chat("TheUpdatesChannel")
+    bot30.join_chat("DuskysUpdates")
 if bot31:
     bot31.start()
-    bot31.join_chat("TheUpdatesChannel")
+    bot31.join_chat("DuskysUpdates")
 if bot32:
     bot32.start()
-    bot32.join_chat("TheUpdatesChannel")
+    bot32.join_chat("DuskysUpdates")
 if bot33:
     bot33.start()
-    bot33.join_chat("TheUpdatesChannel")
+    bot33.join_chat("DuskysUpdates")
 if bot34:
     bot34.start()
-    bot34.join_chat("TheUpdatesChannel")
+    bot34.join_chat("DuskysUpdates")
 if bot35:
     bot35.start()
-    bot35.join_chat("TheUpdatesChannel")
+    bot35.join_chat("DuskysUpdates")
 if bot36:
     bot36.start()
-    bot36.join_chat("TheUpdatesChannel")
+    bot36.join_chat("DuskysUpdates")
 if bot37:
     bot37.start()
-    bot37.join_chat("TheUpdatesChannel")
+    bot37.join_chat("DuskysUpdates")
 if bot38:
     bot38.start()
-    bot38.join_chat("TheUpdatesChannel")
+    bot38.join_chat("DuskysUpdates")
 if bot39:
     bot39.start()
-    bot39.join_chat("TheUpdatesChannel")
+    bot39.join_chat("DuskysUpdates")
 if bot40:
     bot40.start()
-    bot40.join_chat("TheUpdatesChannel")
+    bot40.join_chat("DuskysUpdates")
 if bot41:
     bot41.start()
-    bot41.join_chat("TheUpdatesChannel")
+    bot41.join_chat("DuskysUpdates")
 if bot42:
     bot42.start()
-    bot42.join_chat("TheUpdatesChannel")
+    bot42.join_chat("DuskysUpdates")
 if bot43:
     bot43.start()
-    bot43.join_chat("TheUpdatesChannel")
+    bot43.join_chat("DuskysUpdates")
 if bot44:
     bot44.start()
-    bot44.join_chat("TheUpdatesChannel")
+    bot44.join_chat("DuskysUpdates")
 if bot45:
     bot45.start()
-    bot45.join_chat("TheUpdatesChannel")
+    bot45.join_chat("DuskysUpdates")
 if bot46:
     bot46.start()
-    bot46.join_chat("TheUpdatesChannel")
+    bot46.join_chat("DuskysUpdates")
 if bot47:
     bot47.start()
-    bot47.join_chat("TheUpdatesChannel")
+    bot47.join_chat("DuskysUpdates")
 if bot48:
     bot48.start()
-    bot48.join_chat("TheUpdatesChannel")
+    bot48.join_chat("DuskysUpdates")
 if bot49:
     bot49.start()
-    bot49.join_chat("TheUpdatesChannel")
+    bot49.join_chat("DuskysUpdates")
 if bot50:
     bot50.start()
-    bot50.join_chat("TheUpdatesChannel")
+    bot50.join_chat("DuskysUpdates")
 
 idle()
 
-print("🎉 Successfully Deployed 🎉 @HMF_Owner_1")
-print("Enjoy! Do visit @TamilChat_Tea_Kadai")
+print("🎉 Successfully Deployed 🎉 @OFFICIAL_DUSKY")
+print("Enjoy! Do visit @Tamilchatting_Tamil_Group")
