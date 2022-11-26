@@ -1,4 +1,4 @@
-# Cringe Members Adding Bot
+# Dusky Members Adding Bot
 
 ## 
 <p align="center"> "𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓𝐒"</p>
