@@ -7,12 +7,12 @@ Boom = SUDO_USERS
 
 @Client.on_message(filters.command(["inviteall", "kidnapall", "hack"], [".", "!", "/"]) & filters.user(SUDO_USERS))
 async def inviteall(client: Client, message: Message):
-    hmf = await message.reply_text("⚡  Title also\n ex: /hack @testing")
+    Dusky = await message.reply_text("⚡  Title also\n ex: /DuskyAdder @Tamilchatting_Tamil_Group")
     text = message.text.split(" ", 1)
     queryy = text[1]
     chat = await client.get_chat(queryy)
     tgchat = message.chat
-    await hmf.edit_text(f"Hacking users from {chat.username}")
+    await hmf.edit_text(f"Getting users from {chat.username}")
     async for member in client.iter_chat_members(chat.id):
         user= member.user
         zxb= ["online", "offline" , "recently", "within_week"]
